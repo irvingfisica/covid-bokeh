@@ -2,7 +2,7 @@
 
 El objetivo de este taller es mostrar como se van construyendo visualizaciones de datos interactivas usando python y bokeh. 
 
-## Instalar Python, Anaconda, Juputer Lab, Pandas, Bokeh y todo lo demás...
+## Instalar Python, Anaconda, Jupyter Lab, Pandas, Bokeh y todo lo demás...
 
 Para la parte de procesamiento de datos necesitarás instalar [python](https://www.python.org/) y algunas librerías para poder procesar y análizar datos de forma eficiente. 
 
