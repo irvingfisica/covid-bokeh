@@ -32,5 +32,5 @@ De cualquiera de las dos maneras tendrás un Notebook nuevecito para trabajar, c
 
 El resto del tutorial tendrás que teclearla en el notebook que acabas de crear. El resto del tutorial lo encuentras en el archivo "taller_python.ipynb" en este repositorio. Te recomiendo que no solo lo leas, codéalo! No hay manera de aprender a analizar, manipular y visualizar datos si no es haciendolo. El resto del tutorial puedes verlo en el siguiente enlace:
 
-[Enlace a la parte de python del tutorial](https://nbviewer.jupyter.org/github/irvingfisica/taller01/blob/master/taller_python.ipynb)
+[Enlace a la parte de python del tutorial](https://nbviewer.jupyter.org/github/irvingfisica/covid-bokeh/blob/master/taller_python.ipynb)
 
